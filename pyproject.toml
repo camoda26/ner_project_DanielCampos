@@ -4,5 +4,8 @@ version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
     "gliner>=0.2.30",
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
     "pymupdf>=2.1",
+    "tqdm>=4.70.1",
 ]
